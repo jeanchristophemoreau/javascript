@@ -1,6 +1,6 @@
 class EventEmitter{
         constructor() {
-            this.callbacks = {};
+            private this.callbacks = {};
         }
 
 
